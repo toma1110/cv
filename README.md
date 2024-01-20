@@ -5,6 +5,7 @@
 ### インフラ案件の経験
 2012年からインフラSES案件に参画しており、提案、基本設計、詳細設計、運用設計、運用、改善提案など
 上流工程から下流工程まで幅広く経験してきました。
+直近ではコンサルからアーキテクト、技術アドバイザーまで対応しています。
 
 ### AWS案件の経験
 2016年に初めてAWS案件に参画し、私自身の希望で2018年からはAWS案件のみに参画しています。
@@ -24,14 +25,25 @@ Windows、Linuxともに様々な環境で運用を経験したことで、障害対応の勘所をつかむこと
 
 ## プロダクト構築経験・スキル
 ### AWS
-コンピューティング： EC2、AutoScaling、ECR、ECS、Fargate、Lambda
-ストレージ：S3、EFS、S3 Glacier
-データベース：RDS（MySQL、Postgre SQL、Aurora MySQL互換、SQL Server）、DynamoDB
-ネットワーク：VPC、CloudFront、Route53、API Gateway、DirectConnect、Transit Gateway
-開発者用ツール：CodeCommit、CodeDeploy
-管理とガバナンス：CloudWatch、CloudFormation、AWS CDK(Python)、CloudTrail、SystemsManager
-分析：Athena、Elasticsearch Service、QuickSight、AWS Glue
-セキュリティ：IAM、GuardDuty、Certificate Manager、Key Management Service
+#### コンピューティング
+EC2、AutoScaling、ECR、ECS、Fargate、Lambda
+#### ストレージ
+S3、EFS、S3 Glacier
+#### データベース
+RDS（MySQL、Postgre SQL、Aurora MySQL互換、SQL Server、Oracle）、DynamoDB
+#### ネットワーク
+VPC、CloudFront、Route53、API Gateway、DirectConnect、Transit Gateway
+#### CI/CD
+CodePipeline、CodeCommit、CodeBuild、CodeDeploy
+#### 管理とガバナンス
+ControlTower、CloudWatch、CloudTrail、SystemsManager
+#### 分析
+Athena、Elasticsearch Service、QuickSight、AWS Glue
+#### セキュリティ
+IAM、GuardDuty、ACM、KMS、SecurityHub、Inspector、AccessAnalyzer
+
+### IaC
+Terraform、CloudFormation、AWS CDK(Typescript、Python)
 
 ### その他
 OS：Unix（Solaris）、Linux（RedHat、CentOS、Amazon Linux）、Windows Server
