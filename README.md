@@ -25,10 +25,12 @@ Windows、Linuxともに様々な環境で運用を経験したことで、障害対応の勘所をつかむこと
 
 ## プロダクト構築経験・スキル
 ### AWS
-#### コンピューティング
+* コンピューティング
 EC2、AutoScaling、ECR、ECS、Fargate、Lambda
-#### ストレージ
+
+* ストレージ
 S3、EFS、S3 Glacier
+
 #### データベース
 RDS（MySQL、Postgre SQL、Aurora MySQL互換、SQL Server、Oracle）、DynamoDB
 #### ネットワーク
