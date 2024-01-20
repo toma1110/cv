@@ -25,36 +25,29 @@ Windows、Linuxともに様々な環境で運用を経験したことで、障害対応の勘所をつかむこと
 
 ## プロダクト構築経験・スキル
 ### AWS
-* コンピューティング
-EC2、AutoScaling、ECR、ECS、Fargate、Lambda
+* コンピューティング：EC2、AutoScaling、ECR、ECS、Fargate、Lambda
 
-* ストレージ
-S3、EFS、S3 Glacier
+* ストレージ：S3、EFS、S3 Glacier
 
-#### データベース
-RDS（MySQL、Postgre SQL、Aurora MySQL互換、SQL Server、Oracle）、DynamoDB
-#### ネットワーク
-VPC、CloudFront、Route53、API Gateway、DirectConnect、Transit Gateway
-#### CI/CD
-CodePipeline、CodeCommit、CodeBuild、CodeDeploy
-#### 管理とガバナンス
-ControlTower、CloudWatch、CloudTrail、SystemsManager
-#### 分析
-Athena、Elasticsearch Service、QuickSight、AWS Glue
-#### セキュリティ
-IAM、GuardDuty、ACM、KMS、SecurityHub、Inspector、AccessAnalyzer
+* データベース：RDS（MySQL、Postgre SQL、Aurora MySQL互換、SQL Server、Oracle）、DynamoDB
+* ネットワーク：VPC、CloudFront、Route53、API Gateway、DirectConnect、Transit Gateway
+* CI/CD：CodePipeline、CodeCommit、CodeBuild、CodeDeploy
+* 管理とガバナンス：ControlTower、CloudWatch、CloudTrail、SystemsManager
+* 分析：Athena、Elasticsearch Service、QuickSight、AWS Glue
+* セキュリティ：IAM、GuardDuty、ACM、KMS、SecurityHub、Inspector、AccessAnalyzer
 
 ### IaC
-Terraform、CloudFormation、AWS CDK(Typescript、Python)
+* AWS：Terraform、CloudFormation、AWS CDK(Typescript、Python)
+* OS：Ansible、ServerSpec
 
 ### その他
-OS：Unix（Solaris）、Linux（RedHat、CentOS、Amazon Linux）、Windows Server
-ミドルウェア： HULFT、Tomcat、JP1、Hinemos、SystemWalker、Zabbix、LDAP
-Webサーバー：Apache、Nginx
-ストレージ： EMC、NetApp 
-NW機器：Cisco（Catalyst）、Juniper、YAMAHA(RTX)
-仮想化ツール：VMWare、Docker
-言語： AWS CDK(Python)、Terraform、Ansible、ServerSpec、Shell、Power Shell、PL/I
+* OS：Unix（Solaris）、Linux（RedHat、CentOS、Amazon Linux）、Windows Server
+* ミドルウェア： HULFT、Tomcat、JP1、Hinemos、SystemWalker、Zabbix、LDAP
+* Webサーバー：Apache、Nginx
+* ストレージ： EMC、NetApp 
+* NW機器：Cisco（Catalyst）、Juniper、YAMAHA(RTX)
+* 仮想化ツール：VMWare、Docker
+* 言語： Shell（Bash）、Power Shell、PL/I
 　　
 
 
