@@ -9,7 +9,7 @@
 
 ### AWSˆÄŒ‚ÌŒoŒ±
 2016”N‚É‰‚ß‚ÄAWSˆÄŒ‚ÉQ‰æ‚µA„©g‚ÌŠó–]‚Å2018”N‚©‚ç‚ÍAWSˆÄŒ‚Ì‚İ‚ÉQ‰æ‚µ‚Ä‚¢‚Ü‚·B
-AWSˆÄŒ‚Å‚à’ñˆÄAŠî–{İŒvAÚ×İŒvA‰^—pİŒvA‰^—pA‰ü‘P’ñˆÄ‚È‚Çã—¬H’ö‚©‚ç‰º—¬H’ö‚Ü‚Å
+AWSˆÄŒ‚Ì’ñˆÄAŠî–{İŒvAÚ×İŒvA‰^—pİŒvA‰^—pA‰ü‘P’ñˆÄ‚È‚Çã—¬H’ö‚©‚ç‰º—¬H’ö‚Ü‚Å
 •L‚­ŒoŒ±‚µ‚Ä‚«‚Ü‚µ‚½B
 
 ### DevOpsŠÖ˜A’m¯
@@ -34,7 +34,7 @@ AWS‚ÌŠeíƒZƒLƒ…ƒŠƒeƒBƒT[ƒrƒX‚ğ—˜—p‚µ‚½ƒZƒLƒ…ƒŠƒeƒB—vŒ‚Ì‚²’ñˆÄA‚¨‚æ‚ÑÀ‘•‚ª‚Å‚
 * CI/CDFCodePipelineACodeCommitACodeBuildACodeDeploy
 * ŠÇ—‚ÆƒKƒoƒiƒ“ƒXFControlTowerACloudWatchACloudTrailASystemsManager
 * •ªÍFAthenaAElasticsearch ServiceAQuickSightAAWS Glue
-* ƒZƒLƒ…ƒŠƒeƒBFIAMAGuardDutyAACMAKMSASecurityHubAInspectorAAccessAnalyzer
+* ƒZƒLƒ…ƒŠƒeƒBFIAMAGuardDutyAACMAKMSASecurityHubAInspectorAAccessAnalyzerADetective
 
 ### IaC
 * AWSFTerraformACloudFormationAAWS CDK(TypescriptAPython)
