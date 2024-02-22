@@ -63,19 +63,18 @@ AWS‚ÌŠeŽíƒZƒLƒ…ƒŠƒeƒBƒT[ƒrƒX‚ð—˜—p‚µ‚½ƒZƒLƒ…ƒŠƒeƒB—vŒ‚Ì‚²’ñˆÄA‚¨‚æ‚ÑŽÀ‘•‚ª‚Å‚
 
 # Žå‚È‹Æ–±Œo—ð
 ## ’“ŽÔê—\–ñƒT[ƒrƒX‚ÌŠî”Õ\’zi2023”Nj
-### Šˆ—p‚µ‚½ƒXƒLƒ‹FyAWS/IaCiCDKAAnsiblej/CICDiCodeƒVƒŠ[ƒYj/ƒZƒLƒ…ƒŠƒeƒBz
-### ƒvƒƒWƒFƒNƒgŠT—vFAWSƒA[ƒLƒeƒNƒ`ƒƒ\¬‚ÌŒŸ“¢Eì¬AƒZƒLƒ…ƒŠƒeƒB—vŒŽÀ‘•ACI/CD\¬ŒŸ“¢EŽÀ‘•i\¬‚ÌŒŸ“¢‚©‚çŽÀ‘•AƒŒƒrƒ…[‚Ü‚Å•L‚­‘Î‰žj
+### Šˆ—pƒXƒLƒ‹FyAWS/IaCiCDKAAnsiblej/CICDiCodeƒVƒŠ[ƒYj/ƒZƒLƒ…ƒŠƒeƒBz
+yƒvƒƒWƒFƒNƒgŠT—vzAWSƒA[ƒLƒeƒNƒ`ƒƒ\¬‚ÌŒŸ“¢Eì¬AƒZƒLƒ…ƒŠƒeƒB—vŒŽÀ‘•ACI/CD\¬ŒŸ“¢EŽÀ‘•i\¬‚ÌŒŸ“¢‚©‚çŽÀ‘•AƒŒƒrƒ…[‚Ü‚Å•L‚­‘Î‰žj
 
-### ƒZƒLƒ…ƒŠƒeƒB—vŒŽÀ‘•
-ƒZƒLƒ…ƒŠƒeƒBŠÖ˜AƒT[ƒrƒX‚Í‚Ù‚Ú–¢ŒoŒ±‚¾‚Á‚½‚ªi‚±‚ê‚Ü‚Å‚ÍƒZƒLƒ…ƒŠƒeƒBƒGƒ“ƒWƒjƒA‚É”C‚¹‚Ä‚¢‚½jA
-1‚©ŒŽ‚ÅƒLƒƒƒbƒ`ƒAƒbƒv‚µAƒZƒLƒ…ƒŠƒeƒB—vŒ‚ð–ž‚½‚·\¬‚ð‚¨‹q—l‚É³”F’¸‚¢‚½B
+#### ƒZƒLƒ…ƒŠƒeƒB—vŒŽÀ‘•
+* ƒZƒLƒ…ƒŠƒeƒBŠÖ˜AƒT[ƒrƒX‚Í‚Ù‚Ú–¢ŒoŒ±‚¾‚Á‚½‚ªi‚±‚ê‚Ü‚Å‚ÍƒZƒLƒ…ƒŠƒeƒBƒGƒ“ƒWƒjƒA‚É”C‚¹‚Ä‚¢‚½jA1‚©ŒŽ‚ÅƒLƒƒƒbƒ`ƒAƒbƒv‚µAƒZƒLƒ…ƒŠƒeƒB—vŒ‚ð–ž‚½‚·\¬‚ð‚¨‹q—l‚É³”F’¸‚¢‚½B
 
-### CI/CD\¬ŒŸ“¢EŽÀ‘•
-Šù‘¶‚ÌCIŠÂ‹«‚ðŠˆ‚©‚µ‚È‚ª‚çACDŠÂ‹«‚ðAWS‚Å\’z‚µAÅ’áŒÀ‚Ì\’zH”‚Å‰^—p‹Æ–±Œø—¦‰»‚ðŽÀŒ»‚Å‚«‚é\¬‚ð’ñˆÄB
-ŠJ”­ƒ`[ƒ€‚ÉCIŒoŒ±ŽÒ‚ª‚¢‚È‚©‚Á‚½‚½‚ßACI‘¤‚Ì\¬ŒŸ“¢‚Ü‚ÅŽÀŽ{B
+#### CI/CD\¬ŒŸ“¢EŽÀ‘•
+* Šù‘¶‚ÌCIŠÂ‹«‚ðŠˆ‚©‚µ‚È‚ª‚çACDŠÂ‹«‚ðAWS‚Å\’z‚µAÅ’áŒÀ‚Ì\’zH”‚Å‰^—p‹Æ–±Œø—¦‰»‚ðŽÀŒ»‚Å‚«‚é\¬‚ð’ñˆÄB
+* ŠJ”­ƒ`[ƒ€‚ÉCIŒoŒ±ŽÒ‚ª‚¢‚È‚©‚Á‚½‚½‚ßACI‘¤‚Ì\¬ŒŸ“¢‚Ü‚ÅŽÀŽ{B
 
-## ¡IaCACI/CDŠî”Õ‚Ì’ñˆÄA—vŒ’è‹`yAWS/IaCiTerraformj/CICDiCodeƒVƒŠ[ƒYjzi2023”Nj
-### Šˆ—p‚µ‚½ƒXƒLƒ‹F
+## IaCACI/CDŠî”Õ‚Ì’ñˆÄA—vŒ’è‹`i2023”Nj
+### Šˆ—p‚µ‚½ƒXƒLƒ‹FyAWS/IaCiTerraformj/CICDiCodeƒVƒŠ[ƒYjz
 yƒvƒƒWƒFƒNƒgŠT—vzƒRƒ“ƒTƒ‹‚Ì—§ê‚ÅAWS‚Å‚ÌIaCACI/CD‚ÌƒVƒXƒeƒ€\¬‚â‰^—p‚ð’ñˆÄ‚µA—vŒ’è‹`‘‚Æ‚µ‚Ä‚¨‹q—l‚É”[•i
 ¦ƒGƒ“ƒhƒ†[ƒU[“s‡i—\ŽZk¬j‚É‚æ‚èA—vŒ’è‹`I—¹Œã‚ÉƒvƒƒWƒFƒNƒg‰ðŽU
 
@@ -83,14 +82,16 @@ AWS‚ÌŠeŽíƒZƒLƒ…ƒŠƒeƒBƒT[ƒrƒX‚ð—˜—p‚µ‚½ƒZƒLƒ…ƒŠƒeƒB—vŒ‚Ì‚²’ñˆÄA‚¨‚æ‚ÑŽÀ‘•‚ª‚Å‚
 * —lX‚Èƒpƒ^[ƒ“iIaCAEC2AƒRƒ“ƒeƒiAƒT[ƒo[ƒŒƒXADBj‚ÌCI/CD\¬‚ðŒŸ“¢‚µA‚²’ñˆÄBƒRƒ“ƒeƒi‚âƒT[ƒo[ƒŒƒXADB‚ÌCI/CD‚É‚Â‚¢‚ÄƒLƒƒƒbƒ`ƒAƒbƒv‚µ‚È‚ª‚çAŽÀŽ{
 * ‘‚¢ƒLƒƒƒbƒ`ƒAƒbƒv‚Æ“IŠm‚ÈƒAƒEƒgƒvƒbƒg‚É‚æ‚è‚¨‹q—l‚æ‚è‚•]‰¿‚ð’¸‚«A‰ïŽÐ“à‚Å•\²’¸‚¢‚½
 
-## ¡ƒXƒ}ƒzƒAƒvƒŠ—pŠî”Õ\’zyAWS/IaCiTerraformjzi2022”Nj
+## ƒXƒ}ƒzƒAƒvƒŠ—pŠî”Õ\’zi2022”Nj
+### Šˆ—pƒXƒLƒ‹FyAWS/IaCiTerraformjz
 yƒvƒƒWƒFƒNƒgŠT—vzƒT[ƒo[‘ä”10‘ä’ö“x‚Ì¬‹K–Í‚ÈAWSƒCƒ“ƒtƒ‰ŠÂ‹«\’z‚ðŽÀŽ{‚·‚éBIaC‰»‚Ì„i‚à“¯Žž‚És‚¤B
 
 * Terraform‚É‚æ‚éƒCƒ“ƒtƒ‰‚ÌƒR[ƒh‰»(VPC/EC2/RDS“™)BTerraform‚ÌƒR[ƒfƒBƒ“ƒOƒ‹[ƒ‹‚â‰^—pÝŒv‚ð“Z‚ßAƒOƒ‹[ƒv“à‚ÉŒ[–ÖBŒ‹‰ÊA\’zì‹ÆŽžŠÔ‚Ì‘å•’Zk‚ðŽÀŒ»‚µ‚½B
 * AWSŠî”Õ\’z‹Æ–±BƒCƒ“ƒtƒ‰ƒŠ[ƒ_[‚Æ‚µ‚ÄPoCŠÂ‹«\’zA—vŒ’è‹`AŠî–{ÝŒvAÚ×ÝŒvA\’zA’P‘ÌÚ‘±ŽŽŒ±‚ðŽÀŽ{
 
 
-## ¡ƒNƒ‰ƒEƒhƒlƒCƒeƒBƒu‰»„iyAWS/ƒZƒLƒ…ƒŠƒeƒB/ƒRƒ“ƒeƒizi2022”Nj
+## ƒNƒ‰ƒEƒhƒlƒCƒeƒBƒu‰»„ii2022”Nj
+### Šˆ—pƒXƒLƒ‹FyAWS/ƒZƒLƒ…ƒŠƒeƒB/ƒRƒ“ƒeƒiz
 yƒvƒƒWƒFƒNƒgŠT—vzƒNƒ‰ƒEƒhƒlƒCƒeƒBƒu‰»‚ð„i‚·‚éŽæ‚è‘g‚Ý‚Ì‹ZpŽx‰‡’S“–B
 
 * AWSŠÂ‹«ƒZƒLƒ…ƒŠƒeƒB‘Î‰žBConfigRuleiƒJƒXƒ^ƒ€ƒ‹[ƒ‹j‚ð—˜—p‚µ‚ÄƒZƒLƒ…ƒŠƒeƒB‰^—p‹Æ–±‚Ì”¼Ž©“®‰»‚ð’ñˆÄ‚µA\’z‚Æ“±“ü‚ðŽÀŽ{B
@@ -98,24 +99,28 @@ AWS‚ÌŠeŽíƒZƒLƒ…ƒŠƒeƒBƒT[ƒrƒX‚ð—˜—p‚µ‚½ƒZƒLƒ…ƒŠƒeƒB—vŒ‚Ì‚²’ñˆÄA‚¨‚æ‚ÑŽÀ‘•‚ª‚Å‚
 * ECƒTƒCƒg\’zŽx‰‡BƒRƒ“ƒeƒiŠî”ÕiECSj‚Ì’ñˆÄ
 
 
-## ¡‘å‹K–ÍECƒTƒCƒg‰^—pA‰ü‘P’ñˆÄyAWS/IaCiCDKjzi2019”N`2021”Nj
+## ‘å‹K–ÍECƒTƒCƒg‰^—pA‰ü‘P’ñˆÄi2019”N`2021”Nj
+### Šˆ—pƒXƒLƒ‹FyAWS/IaCiCDKjz
 yƒvƒƒWƒFƒNƒgŠT—vzƒT[ƒo[‘ä”50‘äˆÈã‚Ì‘å‹K–ÍECƒTƒCƒg‚ÌƒCƒ“ƒtƒ‰‰^—pA‚¨‚æ‚Ñ‰^—pŒø—¦‰ü‘P’ñˆÄB
 
 * ƒCƒ“ƒtƒ‰ƒ^ƒXƒN‚Í‘S‚Ä‚Ù‚Úˆêl‚Å’S“–BWebŠÖ˜A‚Ì’mŽ¯‚ª“¾‚ç‚ê‚½B
 * ‰^—pŒø—¦‰ü‘P‚Ì‚½‚ßSystemsManager‚âIaCiCDKj‚ð’ñˆÄ‚µAŽ©“®‰»‚ð„iB
 
 
-## ‘å‹K–ÍECƒTƒCƒgƒŠƒvƒŒƒCƒXyAWS/IaCiTerraformjzi2018”Nj
+## ‘å‹K–ÍECƒTƒCƒgƒŠƒvƒŒƒCƒXi2018”Nj
+### Šˆ—pƒXƒLƒ‹FyAWS/IaCiTerraformjz
 yƒvƒƒWƒFƒNƒgŠT—vz‘å‹K–ÍECƒTƒCƒg‚ÌƒCƒ“ƒtƒ‰\’zB—vŒ’è‹`APoCŠÂ‹«\’z‚ðŽÀŽ{B
 
 * ‚¨‹q—l—vŒ‚ÉŽ©“®‰»iIaCj‚ª‚ ‚èAŽ©“®‰»ƒvƒƒ_ƒNƒg‚Ì‘I’èAÝŒv‚â‰^—pÝŒvA\’ziƒR[ƒfƒBƒ“ƒOjAŽ©“®‰»ƒ`[ƒ€‚ÌƒXƒPƒWƒ…[ƒ‹ŠÇ—‚ðƒƒCƒ“‚Ås‚Á‚½B
 
 
-## ƒoƒbƒNƒAƒbƒvƒVƒXƒeƒ€ƒŠƒvƒŒ[ƒXyAWSzi2017”Nj
+## ƒoƒbƒNƒAƒbƒvƒVƒXƒeƒ€ƒŠƒvƒŒ[ƒXi2017”Nj
+### Šˆ—pƒXƒLƒ‹FyAWSz
 yƒvƒƒWƒFƒNƒgŠT—vzŽè“®‚Åƒe[ƒvƒhƒ‰ƒCƒu‚ÉƒoƒbƒNƒAƒbƒv‚µ‚Ä‚¢‚½’ •[ƒf[ƒ^‚ÌƒoƒbƒNƒAƒbƒv‚ðŽ©“®‰»‚·‚éˆÄŒBƒoƒbƒNƒAƒbƒvæ‚ÍAmazon S3‚Æ‚È‚éB
 
 
-## ŒˆÏƒTƒCƒgAWSˆÚsyAWSzi2016”Nj
+## ŒˆÏƒTƒCƒgAWSˆÚsi2016”Nj
+### Šˆ—pƒXƒLƒ‹FyAWSz
 yƒvƒƒWƒFƒNƒgŠT—vzŠù‘¶‚ÌŒˆÏƒTƒCƒg‚ðAWS‚ÖˆÚs‚·‚éˆÄŒBSI”ï—p400–œ
 
 * Žå‚ÉƒXƒR[ƒvAƒXƒPƒWƒ…[ƒ‹ŠÇ—‚ðs‚Á‚½B’ñˆÄ‚µ‚½ƒVƒXƒeƒ€\¬‚É•s‘«‚ª‚ ‚èAƒXƒR[ƒvŒ©’¼‚µ‚ðŠÜ‚ß‚½ŒÚ‹qÜÕ‚Ü‚ÅŽÀŽ{B
