@@ -13,7 +13,7 @@ AWSˆÄŒ‚Ì’ñˆÄAŠî–{ÝŒvAÚ×ÝŒvA‰^—pÝŒvA‰^—pA‰ü‘P’ñˆÄ‚È‚Çã—¬H’ö‚©‚ç‰º—¬
 •L‚­ŒoŒ±‚µ‚Ä‚«‚Ü‚µ‚½B
 
 ### DevOpsŠÖ˜A’mŽ¯
-ƒCƒ“ƒtƒ‰\’z‚ÌƒR[ƒh‰»iIaCj‚âƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ÌƒŠƒŠ[ƒXŽ©“®‰»‚ðŽÀŒ»‚µ‚Ä‚«‚Ü‚µ‚½B
+ƒCƒ“ƒtƒ‰\’z‚ÌƒR[ƒh‰»iIaCj‚âƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ÌƒŠƒŠ[ƒXŽ©“®‰»(CI/CD)‚ðŽÀŒ»‚µ‚Ä‚«‚Ü‚µ‚½B
 
 ### ƒZƒLƒ…ƒŠƒeƒBŠÖ˜A’mŽ¯
 AWS‚ÌŠeŽíƒZƒLƒ…ƒŠƒeƒBƒT[ƒrƒX‚ð—˜—p‚µ‚½ƒZƒLƒ…ƒŠƒeƒB—vŒ‚Ì‚²’ñˆÄA‚¨‚æ‚ÑŽÀ‘•‚ª‚Å‚«‚Ü‚·B
@@ -26,9 +26,7 @@ AWS‚ÌŠeŽíƒZƒLƒ…ƒŠƒeƒBƒT[ƒrƒX‚ð—˜—p‚µ‚½ƒZƒLƒ…ƒŠƒeƒB—vŒ‚Ì‚²’ñˆÄA‚¨‚æ‚ÑŽÀ‘•‚ª‚Å‚
 ## ƒvƒƒ_ƒNƒg\’zŒoŒ±EƒXƒLƒ‹
 ### AWS
 * ƒRƒ“ƒsƒ…[ƒeƒBƒ“ƒOFEC2AAutoScalingAECRAECSAFargateALambda
-
 * ƒXƒgƒŒ[ƒWFS3AEFSAS3 Glacier
-
 * ƒf[ƒ^ƒx[ƒXFRDSiMySQLAPostgre SQLAAurora MySQLŒÝŠ·ASQL ServerAOraclejADynamoDB
 * ƒlƒbƒgƒ[ƒNFVPCACloudFrontARoute53AAPI GatewayADirectConnectATransit Gateway
 * CI/CDFCodePipelineACodeCommitACodeBuildACodeDeploy
@@ -40,7 +38,7 @@ AWS‚ÌŠeŽíƒZƒLƒ…ƒŠƒeƒBƒT[ƒrƒX‚ð—˜—p‚µ‚½ƒZƒLƒ…ƒŠƒeƒB—vŒ‚Ì‚²’ñˆÄA‚¨‚æ‚ÑŽÀ‘•‚ª‚Å‚
 * AWSFTerraformACloudFormationAAWS CDK(TypescriptAPython)
 * OSFAnsibleAServerSpec
 
-### ‚»‚Ì‘¼
+### OSEƒ~ƒhƒ‹ƒEƒFƒAE‚»‚Ì‘¼
 * OSFUnixiSolarisjALinuxiRedHatACentOSAAmazon LinuxjAWindows Server
 * ƒ~ƒhƒ‹ƒEƒFƒAF HULFTATomcatAJP1AHinemosASystemWalkerAZabbixALDAP
 * WebƒT[ƒo[FApacheANginx
@@ -49,16 +47,40 @@ AWS‚ÌŠeŽíƒZƒLƒ…ƒŠƒeƒBƒT[ƒrƒX‚ð—˜—p‚µ‚½ƒZƒLƒ…ƒŠƒeƒB—vŒ‚Ì‚²’ñˆÄA‚¨‚æ‚ÑŽÀ‘•‚ª‚Å‚
 * ‰¼‘z‰»ƒc[ƒ‹FVMWareADocker
 * Œ¾ŒêF ShelliBashjAPower ShellAPL/I
 @@
+### Žå—vŽ‘Ši
+* AWS Certified Database - Specialtyi2024”N2ŒŽj
+* AWS Certified Advanced Networking - Specialtyi2023”N9ŒŽj
+* AWS Certified Security ? Specialtyi2022”N11ŒŽj
+* AWS Certified Big Data - Specialtyi2022”N3ŒŽj
+* AWS Certified Machine Learning ? Specialtyi2021”N9ŒŽj
+* AWS Certified DevOps Engineer - Professionali2019”N11ŒŽj
+* AWS Certified Solutions Architect - Professionali2018”N10ŒŽj
+* ƒlƒbƒgƒ[ƒNƒXƒyƒVƒƒƒŠƒXƒgi2015”N12ŒŽj
+* î•ñƒZƒLƒ…ƒŠƒeƒBƒXƒyƒVƒƒƒŠƒXƒgi2012”N12ŒŽj
+* LPIC 2iŒ»LinuCji2012”N8ŒŽj
+* ƒ\ƒtƒgƒEƒFƒAŠJ”­‹ZpŽÒ(Œ»F‰ž—pî•ñˆ—‹ZpŽÒ)i2006”N8ŒŽj
 
 
 ## Žå‚È‹Æ–±Œo—ð
 ### ’“ŽÔê—\–ñƒT[ƒrƒX‚ÌŠî”Õ\’zyAWS/IaCiCDKAAnsiblej/CICDiCodeƒVƒŠ[ƒYj/ƒZƒLƒ…ƒŠƒeƒBzi2023”Nj
-yƒvƒƒWƒFƒNƒgŠT—vz
+yƒvƒƒWƒFƒNƒgŠT—vzAWSƒA[ƒLƒeƒNƒ`ƒƒ\¬‚ÌŒŸ“¢Eì¬AƒZƒLƒ…ƒŠƒeƒB—vŒŽÀ‘•ACI/CD\¬ŒŸ“¢EŽÀ‘•
+\¬‚ÌŒŸ“¢‚©‚çŽÀ‘•AƒŒƒrƒ…[‚Ü‚Å•L‚­‘Î‰ž
 
+#### ƒZƒLƒ…ƒŠƒeƒB—vŒŽÀ‘•
+ƒZƒLƒ…ƒŠƒeƒBŠÖ˜AƒT[ƒrƒX‚Í‚Ù‚Ú–¢ŒoŒ±‚¾‚Á‚½‚ªi‚±‚ê‚Ü‚Å‚ÍƒZƒLƒ…ƒŠƒeƒBƒGƒ“ƒWƒjƒA‚É”C‚¹‚Ä‚¢‚½jA
+1‚©ŒŽ‚ÅƒLƒƒƒbƒ`ƒAƒbƒv‚µAƒZƒLƒ…ƒŠƒeƒB—vŒ‚ð–ž‚½‚·\¬‚ð‚¨‹q—l‚É³”F’¸‚¢‚½B
+
+#### CI/CD
+Šù‘¶‚ÌCIŠÂ‹«‚ðŠˆ‚©‚µ‚È‚ª‚çACDŠÂ‹«‚ðAWS‚Å\’z‚µAÅ’áŒÀ‚Ì\’zH”‚Å‰^—p‹Æ–±Œø—¦‰»‚ðŽÀŒ»‚Å‚«‚é\¬‚ð’ñˆÄB
+ŠJ”­ƒ`[ƒ€‚ÉCIŒoŒ±ŽÒ‚ª‚¢‚È‚©‚Á‚½‚½‚ßACI‘¤‚Ì\¬ŒŸ“¢‚Ü‚ÅŽÀŽ{B
 
 ### IaCACI/CDŠî”Õ‚Ì’ñˆÄA—vŒ’è‹`yAWS/IaCiTerraformj/CICDiCodeƒVƒŠ[ƒYjzi2023”Nj
-yƒvƒƒWƒFƒNƒgŠT—vzƒRƒ“ƒTƒ‹‚Ì—§ê‚ÅAWS‚Å‚ÌIaCACI/CD‚ÌƒVƒXƒeƒ€\¬‚â‰^—p‚ð’ñˆÄ‚·‚é
+yƒvƒƒWƒFƒNƒgŠT—vzƒRƒ“ƒTƒ‹‚Ì—§ê‚ÅAWS‚Å‚ÌIaCACI/CD‚ÌƒVƒXƒeƒ€\¬‚â‰^—p‚ð’ñˆÄ‚µA—vŒ’è‹`‘‚Æ‚µ‚Ä‚¨‹q—l‚É”[•i
+¦ƒGƒ“ƒhƒ†[ƒU[“s‡i—\ŽZk¬j‚É‚æ‚èA—vŒ’è‹`I—¹Œã‚ÉƒvƒƒWƒFƒNƒg‰ðŽU
 
+* ‰ß‹Ž‚ÌIaCŒoŒ±‚ðŠî‚ÉÅ“K‚ÈIaC\¬‚ð’ñˆÄ‚µA‚Ù‚ÚŽw“E–³‚­i‘ÌÙ‚ÌŽw“E‚Í‚ ‚èj—vŒ’è‹`‘‚Ìì¬‚ðŽÀŽ{
+* —lX‚Èƒpƒ^[ƒ“iIaCAEC2AƒRƒ“ƒeƒiAƒT[ƒo[ƒŒƒXADBj‚ÌCI/CD\¬‚ðŒŸ“¢‚µA‚²’ñˆÄBƒRƒ“ƒeƒi‚âƒT[ƒo[ƒŒƒXADB‚ÌCI/CD‚É‚Â‚¢‚ÄƒLƒƒƒbƒ`ƒAƒbƒv‚µ‚È‚ª‚çAŽÀŽ{
+* ‘‚¢ƒLƒƒƒbƒ`ƒAƒbƒv‚Æ“IŠm‚ÈƒAƒEƒgƒvƒbƒg‚É‚æ‚è‚¨‹q—l‚æ‚è‚•]‰¿‚ð’¸‚«A‰ïŽÐ“à‚Å•\²’¸‚¢‚½
 
 ### ƒXƒ}ƒzƒAƒvƒŠ—pŠî”Õ\’zyAWS/IaCiTerraformjzi2022”Nj
 yƒvƒƒWƒFƒNƒgŠT—vzƒT[ƒo[‘ä”10‘ä’ö“x‚Ì¬‹K–Í‚ÈAWSƒCƒ“ƒtƒ‰ŠÂ‹«\’z‚ðŽÀŽ{‚·‚éBIaC‰»‚Ì„i‚à“¯Žž‚És‚¤B
