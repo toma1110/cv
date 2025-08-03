@@ -1,137 +1,154 @@
-# �E���o����
+# 職務経歴書
 
-## ��������o���E�m���E�Z�p
+## 活かせる経験・知識・技術
 
-### �C���t���Č��̌o��
-2012�N����C���t��SES�Č��ɎQ�悵�Ă���A��āA��{�݌v�A�ڍא݌v�A�^�p�݌v�A�^�p�A���P��ĂȂ�
-�㗬�H�����牺���H���܂ŕ��L���o�����Ă��܂����B
-�܂��A�R���T������A�[�L�e�N�g�A�Z�p�A�h�o�C�U�[�܂őΉ����Ă��܂��B
+### インフラ案件の経験
+2012年からインフラSES案件に参画しており、提案、基本設計、詳細設計、運用設計、運用、改善提案など
+上流工程から下流工程まで幅広く経験してきました。
+また、コンサルからアーキテクト、技術アドバイザーまで対応しています。
 
-### AWS�Č��̌o��
-2016�N�ɏ��߂�AWS�Č��ɎQ�悵�A�����g�̊�]��2018�N�����AWS�Č��݂̂ɎQ�悵�Ă��܂��B
-AWS�Č��̒�āA��{�݌v�A�ڍא݌v�A�^�p�݌v�A�^�p�A���P��ĂȂǏ㗬�H�����牺���H���܂�
-���L���o�����Ă��܂����B
+### AWS案件の経験
+2016年に初めてAWS案件に参画し、私自身の希望で2018年からはAWS案件のみに参画しています。
+AWS案件の提案、基本設計、詳細設計、運用設計、運用、改善提案など上流工程から下流工程まで
+幅広く経験してきました。
 
-### DevOps�֘A�m��
-�C���t���\�z�̃R�[�h���iIaC�j��A�v���P�[�V�����̃����[�X������(CI/CD)���������Ă��܂����B
+### DevOps関連知識
+インフラ構築のコード化（IaC）やアプリケーションのリリース自動化(CI/CD)を実現してきました。
 
-### �Z�L�����e�B�֘A�m��
-AWS�̊e��Z�L�����e�B�T�[�r�X�𗘗p�����Z�L�����e�B�v���̂���āA����ю������ł��܂��B
-�@
-### �ڋq�܏՗�
-���q�l��ɏ풓���Ă��q�l�ƒ��ڃR�~���j�P�[�V���������Ē����@��𑽂��������Ƃ��ł��܂����B
-����̗���ɗ����A�ړI�ӎ����������s�������Ă��܂����B
+### セキュリティ関連知識
+AWSの各種セキュリティサービスを利用したセキュリティ要件のご提案、および実装ができます。
+　
+### 顧客折衝力
+お客様先に常駐してお客様と直接コミュニケーションさせて頂く機会を多く頂くことができました。
+相手の立場に立ち、目的意識を持った行動をしてきました。
 
 
-## �v���_�N�g�\�z�o���E�X�L��
+## プロダクト構築経験・スキル
 ### AWS
-* �R���s���[�e�B���O�FEC2�AAutoScaling�AECR�AECS�AFargate�ALambda
-* �X�g���[�W�FS3�AEFS�AS3 Glacier
-* �f�[�^�x�[�X�FRDS�iMySQL�APostgre SQL�AAurora MySQL�݊��ASQL Server�AOracle�j�ADynamoDB
-* �l�b�g���[�N�FVPC�ACloudFront�ARoute53�AAPI Gateway�ADirectConnect�ATransit Gateway
-* CI/CD�FCodePipeline�ACodeCommit�ACodeBuild�ACodeDeploy
-* �Ǘ��ƃK�o�i���X�FControlTower�ACloudWatch�ACloudTrail�ASystemsManager
-* ���́FAthena�AElasticsearch Service�AQuickSight�AAWS Glue
-* �Z�L�����e�B�FIAM�AGuardDuty�AACM�AKMS�ASecurityHub�AInspector�AAccessAnalyzer�ADetective
+* コンピューティング：EC2、AutoScaling、ECR、ECS、EKS、Lambda
+* ストレージ：S3、EFS、S3 Glacier
+* データベース：RDS（MySQL、Postgre SQL、Aurora MySQL互換、SQL Server、Oracle）、DynamoDB
+* ネットワーク：VPC、CloudFront、Route53、API Gateway、DirectConnect、Transit Gateway
+* CI/CD：CodePipeline、CodeCommit、CodeBuild、CodeDeploy
+* 管理とガバナンス：ControlTower、CloudWatch、CloudTrail、SystemsManager
+* 分析：Athena、Elasticsearch Service、QuickSight、AWS Glue
+* セキュリティ：IAM、GuardDuty、ACM、KMS、SecurityHub、Inspector、AccessAnalyzer、Detective
 
 ### IaC
-* AWS�FTerraform�ACloudFormation�AAWS CDK(Typescript�APython)
-* OS�FAnsible�AServerSpec
+* AWS：Terraform、CloudFormation、AWS CDK(Typescript、Python)
+* OS：Ansible、ServerSpec
 
-### OS�E�~�h���E�F�A�E���̑�
-* OS�FUnix�iSolaris�j�ALinux�iRedHat�ACentOS�AAmazon Linux�j�AWindows Server
-* �~�h���E�F�A�F HULFT�ATomcat�AJP1�AHinemos�ASystemWalker�AZabbix�ALDAP
-* Web�T�[�o�[�FApache�ANginx
-* �X�g���[�W�F EMC�ANetApp 
-* NW�@��FCisco�iCatalyst�j�AJuniper�AYAMAHA(RTX)
-* ���z���c�[���FVMWare�ADocker
-* ����F Shell�iBash�j�APower Shell�APL/I
-�@�@
-### ��v���i
-* AWS Certified Database - Specialty�i2024�N2���j
-* AWS Certified Advanced Networking - Specialty�i2023�N9���j
-* AWS Certified Security - Specialty�i2022�N11���j
-* AWS Certified Big Data - Specialty�i2022�N3���j
-* AWS Certified Machine Learning - Specialty�i2021�N9���j
-* AWS Certified DevOps Engineer - Professional�i2019�N11���j
-* AWS Certified Solutions Architect - Professional�i2018�N10���j
-* �l�b�g���[�N�X�y�V�����X�g�i2015�N12���j
-* ���Z�L�����e�B�X�y�V�����X�g�i2012�N12���j
-* LPIC 2�i��LinuC�j�i2012�N8���j
-* �\�t�g�E�F�A�J���Z�p��(���F���p��񏈗��Z�p��)�i2006�N8���j
-
-
-# ��ȋƖ��o��
-## ���ԏ�\��T�[�r�X�̊�Ս\�z�i2023�N�j
-### ���p�X�L���F�yAWS/IaC�iCDK�AAnsible�j/CICD�iCode�V���[�Y�j/�Z�L�����e�B�z
-�y�v���W�F�N�g�T�v�zAWS�A�[�L�e�N�`���\���̌����E�쐬�A�Z�L�����e�B�v�������ACI/CD�\�������E�����i�\���̌�����������A���r���[�܂ŕ��L���Ή��j
-
-#### �Z�L�����e�B�v������
-* �Z�L�����e�B�֘A�T�[�r�X�͂قږ��o�����������i����܂ł̓Z�L�����e�B�G���W�j�A�ɔC���Ă����j�A1�����ŃL���b�`�A�b�v���A�Z�L�����e�B�v���𖞂����\�������q�l�ɏ��F�������B
-
-#### CI/CD�\�������E����
-* ������CI�����������Ȃ���ACD����AWS�ō\�z���A�Œ���̍\�z�H���ŉ^�p�Ɩ��������������ł���\�����āB
-* �J���`�[����CI�o���҂����Ȃ��������߁ACI���̍\�������܂Ŏ��{�B
-
-## IaC�ACI/CD��Ղ̒�āA�v����`�i2023�N�j
-### ���p�����X�L���F�yAWS/IaC�iTerraform�j/CICD�iCode�V���[�Y�j�z
-�y�v���W�F�N�g�T�v�z�R���T���̗����AWS�ł�IaC�ACI/CD�̃V�X�e���\����^�p���Ă��A�v����`���Ƃ��Ă��q�l�ɔ[�i
-���G���h���[�U�[�s���i�\�Z�k���j�ɂ��A�v����`�I����Ƀv���W�F�N�g���U
-
-* �ߋ���IaC�o������ɍœK��IaC�\�����Ă��A�قڎw�E�����i�̍ق̎w�E�͂���j�v����`���̍쐬�����{
-* �l�X�ȃp�^�[���iIaC�AEC2�A�R���e�i�A�T�[�o�[���X�ADB�j��CI/CD�\�����������A����āB�R���e�i��T�[�o�[���X�ADB��CI/CD�ɂ��ăL���b�`�A�b�v���Ȃ���A���{
-* �����L���b�`�A�b�v�ƓI�m�ȃA�E�g�v�b�g�ɂ�肨�q�l��荂�]���𒸂��A��Г��ŕ\��������
-
-## �X�}�z�A�v���p��Ս\�z�i2022�N�j
-### ���p�X�L���F�yAWS/IaC�iTerraform�j�z
-�y�v���W�F�N�g�T�v�z�T�[�o�[�䐔10����x�̏��K�͂�AWS�C���t�����\�z�����{����BIaC���̐��i�������ɍs���B
-
-* Terraform�ɂ��C���t���̃R�[�h��(VPC/EC2/RDS��)�BTerraform�̃R�[�f�B���O���[����^�p�݌v��Z�߁A�O���[�v���Ɍ[�ցB���ʁA�\�z��Ǝ��Ԃ̑啝�Z�k�����������B
-* AWS��Ս\�z�Ɩ��B�C���t�����[�_�[�Ƃ���PoC���\�z�A�v����`�A��{�݌v�A�ڍא݌v�A�\�z�A�P�̐ڑ����������{
+### OS・ミドルウェア・その他
+* OS：Unix（Solaris）、Linux（RedHat、CentOS、Amazon Linux）、Windows Server
+* ミドルウェア： HULFT、Tomcat、LDAP
+* 監視：JP1、Hinemos、SystemWalker、Zabbix、Prometheus
+* Webサーバー：Apache、Nginx
+* ストレージ： EMC、NetApp 
+* NW機器：Cisco（Catalyst）、Juniper、YAMAHA(RTX)
+* 仮想化ツール：VMWare、Docker
+* 言語： Shell（Bash）、Power Shell、PL/I
+　　
+### 主要資格
+* （2025年月）
+* （2025年月）
+* AWS Certified AI Practitioner（2025年8月）
+* AWS Certified Machine Learning Engineer - Associate（2025年6月）
+* AWS Certified Data Engineer - Associate（2025年3月）
+* AWS Certified Machine Learning - Specialty（2024年11月）
+* AWS Certified DevOps Engineer - Professional（2024年8月）
+* AWS Certified Solutions Architect - Professional (2024年6月)
+* AWS Certified Database - Specialty（2024年2月）
+* AWS Certified Advanced Networking - Specialty（2023年9月）
+* AWS Certified Security - Specialty（2022年11月）
+* AWS Certified Big Data - Specialty（2022年3月）
+* ネットワークスペシャリスト（2015年12月）
+* 情報セキュリティスペシャリスト（2012年12月）
+* LPIC 2（現LinuC）（2012年8月）
+* ソフトウェア開発技術者(現：応用情報処理技術者)（2006年8月）
 
 
-## �N���E�h�l�C�e�B�u�����i�i2022�N�j
-### ���p�X�L���F�yAWS/�Z�L�����e�B/�R���e�i�z
-�y�v���W�F�N�g�T�v�z�N���E�h�l�C�e�B�u���𐄐i������g�݂̋Z�p�x���S���B
+# 主な業務経歴
+## 公共システムの基盤運用（2025年4月～）
+### 活用スキル：【AWS全般、リーダースキル】
+【プロジェクト概要】150台以上のコンテナで構成される公共システムの基盤運用。AWSのユーザー部門のインフラリーダーとしてベンダー管理、メンバー管理を実施。
 
-* AWS���Z�L�����e�B�Ή��BConfigRule�i�J�X�^�����[���j�𗘗p���ăZ�L�����e�B�^�p�Ɩ��̔����������Ă��A�\�z�Ɠ��������{�B
-* Organizations�ACloudFormation StackSets�𗘗p�����A�}���`�A�J�E���g�i80�A�J�E���g���x�j�ւ̃Z�L�����e�B�O���[�v�ݒ�ꊇ�z�M�̎d�g�݂��Ă��A�\�z�Ɠ��������{�B
-* EC�T�C�g�\�z�x���B�R���e�i��ՁiECS�j�̒��
+#### コンテナ運用、監視
+* コンテナは未経験だったが、3か月でキャッチアップし、コンテナ監視構成の提案やベンダーレビューの対応を実施。
+
+#### リーダースキル
+* ユーザー部門としてベンダー管理を行ったことがなかったため、やりとりの仕方にご指摘いただくことが多かったが、学びも多かった
+* メンバー管理はマイクロマネジメントにならないよう且つ放任主義にならないよう注意、リーダー層への適切な報告を実施
+
+## 駐車場予約サービスの基盤構築（2023年8月～2025年3月）
+### 活用スキル：【AWS/IaC（CDK、Ansible）/CICD（Codeシリーズ）/セキュリティ】
+【プロジェクト概要】AWSアーキテクチャ構成の検討・作成、セキュリティ要件実装、CI/CD構成検討・実装（構成の検討から実装、レビューまで幅広く対応）
+
+#### セキュリティ要件実装
+* セキュリティ関連サービスはほぼ未経験だったが（これまではセキュリティエンジニアに任せていた）、1か月でキャッチアップし、セキュリティ要件を満たす構成をお客様に承認頂いた。
+
+#### CI/CD構成検討・実装
+* 既存のCI環境を活かしながら、CD環境をAWSで構築し、最低限の構築工数で運用業務効率化を実現できる構成を提案。
+* 開発チームにCI経験者がいなかったため、CI側の構成検討まで実施。
+
+## IaC、CI/CD基盤の提案、要件定義（2023年）
+### 活用したスキル：【AWS/IaC（Terraform）/CICD（Codeシリーズ）】
+【プロジェクト概要】コンサルの立場でAWSでのIaC、CI/CDのシステム構成や運用を提案し、要件定義書としてお客様に納品
+※エンドユーザー都合（予算縮小）により、要件定義終了後にプロジェクト解散
+
+* 過去のIaC経験を基に最適なIaC構成を提案し、ほぼ指摘無く（体裁の指摘はあり）要件定義書の作成を実施
+* 様々なパターン（IaC、EC2、コンテナ、サーバーレス、DB）のCI/CD構成を検討し、ご提案。コンテナやサーバーレス、DBのCI/CDについてキャッチアップしながら、実施
+* 早いキャッチアップと的確なアウトプットによりお客様より高評価を頂き、会社内で表彰頂いた
+
+## スマホアプリ用基盤構築（2022年）
+### 活用スキル：【AWS/IaC（Terraform）】
+【プロジェクト概要】サーバー台数10台程度の小規模なAWSインフラ環境構築を実施する。IaC化の推進も同時に行う。
+
+* Terraformによるインフラのコード化(VPC/EC2/RDS等)。Terraformのコーディングルールや運用設計を纏め、グループ内に啓蒙。結果、構築作業時間の大幅短縮を実現した。
+* AWS基盤構築業務。インフラリーダーとしてPoC環境構築、要件定義、基本設計、詳細設計、構築、単体接続試験を実施
 
 
-## ��K��EC�T�C�g�^�p�A���P��āi2019�N�`2021�N�j
-### ���p�X�L���F�yAWS/IaC�iCDK�j�z
-�y�v���W�F�N�g�T�v�z�T�[�o�[�䐔50��ȏ�̑�K��EC�T�C�g�̃C���t���^�p�A����щ^�p�������P��āB
+## クラウドネイティブ化推進（2022年）
+### 活用スキル：【AWS/セキュリティ/コンテナ】
+【プロジェクト概要】クラウドネイティブ化を推進する取り組みの技術支援担当。
 
-* �C���t���^�X�N�͑S�Ăقڈ�l�ŒS���BWeb�֘A�̒m��������ꂽ�B
-* �^�p�������P�̂���SystemsManager��IaC�iCDK�j���Ă��A�������𐄐i�B
-
-
-## ��K��EC�T�C�g���v���C�X�i2018�N�j
-### ���p�X�L���F�yAWS/IaC�iTerraform�j�z
-�y�v���W�F�N�g�T�v�z��K��EC�T�C�g�̃C���t���\�z�B�v����`�APoC���\�z�����{�B
-
-* ���q�l�v���Ɏ������iIaC�j������A�������v���_�N�g�̑I��A�݌v��^�p�݌v�A�\�z�i�R�[�f�B���O�j�A�������`�[���̃X�P�W���[���Ǘ������C���ōs�����B
+* AWS環境セキュリティ対応。ConfigRule（カスタムルール）を利用してセキュリティ運用業務の半自動化を提案し、構築と導入を実施。
+* Organizations、CloudFormation StackSetsを利用した、マルチアカウント（80アカウント程度）へのセキュリティグループ設定一括配信の仕組みを提案し、構築と導入を実施。
+* ECサイト構築支援。コンテナ基盤（ECS）の提案
 
 
-## �o�b�N�A�b�v�V�X�e�����v���[�X�i2017�N�j
-### ���p�X�L���F�yAWS�z
-�y�v���W�F�N�g�T�v�z�蓮�Ńe�[�v�h���C�u�Ƀo�b�N�A�b�v���Ă������[�f�[�^�̃o�b�N�A�b�v������������Č��B�o�b�N�A�b�v���Amazon S3�ƂȂ�B
+## 大規模ECサイト運用、改善提案（2019年～2021年）
+### 活用スキル：【AWS/IaC（CDK）】
+【プロジェクト概要】サーバー台数50台以上の大規模ECサイトのインフラ運用、および運用効率改善提案。
+
+* インフラタスクは全てほぼ一人で担当。Web関連の知識が得られた。
+* 運用効率改善のためSystemsManagerやIaC（CDK）を提案し、自動化を推進。
 
 
-## ���σT�C�gAWS�ڍs�i2016�N�j
-### ���p�X�L���F�yAWS�z
-�y�v���W�F�N�g�T�v�z�����̌��σT�C�g��AWS�ֈڍs����Č��BSI��p400��
+## 大規模ECサイトリプレイス（2018年）
+### 活用スキル：【AWS/IaC（Terraform）】
+【プロジェクト概要】大規模ECサイトのインフラ構築。要件定義、PoC環境構築を実施。
 
-* ��ɃX�R�[�v�A�X�P�W���[���Ǘ����s�����B��Ă����V�X�e���\���ɕs��������A�X�R�[�v���������܂߂��ڋq�܏Ղ܂Ŏ��{�B
+* お客様要件に自動化（IaC）があり、自動化プロダクトの選定、設計や運用設計、構築（コーディング）、自動化チームのスケジュール管理をメインで行った。
 
 
-## �ȑO��AWS�𗘗p�����Č����Ȃ����߁A�T���̂݋L��
-* 2015.2�`2016.1�@�|�[�^���T�C�g���v���C�X(�C���t���\�z)�@�����o�[�Ƃ��Ċ�{�݌v����^�p�����n���܂őΉ��B
-* 2014.8�`2015.1�@DWH�\�z�@�����o�[�Ƃ��ďڍא݌v����^�p�����n���܂őΉ��B
-* 2013.5�`2014.7�@ID�Ǘ��V�X�e���\�z�@�C���t�����[�_�[�Ƃ��ďڍא݌v����^�p�����n���܂őΉ��B
-* 2012.12�`2013.4 �V���N���C�A���g���\�z�@PM�Ƃ��Ċ�{�݌v����^�p�����n���܂őΉ��B
-* 2012.1�`2012.12�@�|�[�^���T�C�g���v���C�X(�C���t���\�z)�@�����o�[�Ƃ��Ċ�{�݌v����^�p�����n���܂őΉ��B
-* 2009.4�`2011.12�@�Г��C���t���Ǘ��@�Г�SE�Ƃ���2�N9������3���_�̎Г��C���t���Ǘ���S���B
-* 2007.8�`2008.12�@�Г��C���t���Ǘ��@�����o�[�Ƃ��Ď��ЃV�X�e���̃C���t���Ǘ��A��Ս\�z��S���B
-* 2005.4�`2007.8�@��s�Ɩ��V�X�e���J���@�����o�[�Ƃ��ċ�s�V�X�e���̃v���O�����J���iPL/I�j��S���B
+## バックアップシステムリプレース（2017年）
+### 活用スキル：【AWS】
+【プロジェクト概要】手動でテープドライブにバックアップしていた帳票データのバックアップを自動化する案件。バックアップ先はAmazon S3となる。
+
+
+## 決済サイトAWS移行（2016年）
+### 活用スキル：【AWS】
+【プロジェクト概要】既存の決済サイトをAWSへ移行する案件。SI費用400万
+
+* 主にスコープ、スケジュール管理を行った。提案したシステム構成に不足があり、スコープ見直しを含めた顧客折衝まで実施。
+
+
+## 以前はAWSを利用した案件がないため、概略のみ記載
+* 2015.2～2016.1　ポータルサイトリプレイス(インフラ構築)　メンバーとして基本設計から運用引き渡しまで対応。
+* 2014.8～2015.1　DWH構築　メンバーとして詳細設計から運用引き渡しまで対応。
+* 2013.5～2014.7　ID管理システム構築　インフラリーダーとして詳細設計から運用引き渡しまで対応。
+* 2012.12～2013.4 シンクライアント環境構築　PMとして基本設計から運用引き渡しまで対応。
+* 2012.1～2012.12　ポータルサイトリプレイス(インフラ構築)　メンバーとして基本設計から運用引き渡しまで対応。
+* 2009.4～2011.12　社内インフラ管理　社内SEとして2年9か月で3拠点の社内インフラ管理を担当。
+* 2007.8～2008.12　社内インフラ管理　メンバーとして自社システムのインフラ管理、基盤構築を担当。
+* 2005.4～2007.8　銀行業務システム開発　メンバーとして銀行システムのプログラム開発（PL/I）を担当。
