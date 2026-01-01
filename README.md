@@ -30,7 +30,8 @@ AWSの各種セキュリティサービスを利用したセキュリティ要�
 * データベース：RDS（MySQL、Postgre SQL、Aurora MySQL互換、SQL Server、Oracle）、DynamoDB
 * ネットワーク：VPC、CloudFront、Route53、API Gateway、DirectConnect、Transit Gateway
 * CI/CD：CodePipeline、CodeCommit、CodeBuild、CodeDeploy
-* 管理とガバナンス：ControlTower、CloudWatch、CloudTrail、SystemsManager
+* 管理とガバナンス：ControlTower、CloudTrail、SystemsManager
+* オブザーバービリティ：CloudWatch、Application Signals、X-Ray、ADOT
 * 分析：Athena、Elasticsearch Service、QuickSight、AWS Glue
 * セキュリティ：IAM、GuardDuty、ACM、KMS、SecurityHub、Inspector、AccessAnalyzer、Detective
 
@@ -51,7 +52,7 @@ AWSの各種セキュリティサービスを利用したセキュリティ要�
 　　
 ### 主要資格
 * （2025年月）
-* （2025年月）
+* AWS Certified Security - Specialty（2025年12月）
 * AWS Certified Solutions Architect - Associate（2025年9月）
 * AWS Certified AI Practitioner（2025年8月）
 * AWS Certified Machine Learning Engineer - Associate（2025年6月）
@@ -61,7 +62,6 @@ AWSの各種セキュリティサービスを利用したセキュリティ要�
 * AWS Certified Solutions Architect - Professional (2024年6月)
 * AWS Certified Database - Specialty（2024年2月）
 * AWS Certified Advanced Networking - Specialty（2023年9月）
-* AWS Certified Security - Specialty（2022年11月）
 * AWS Certified Big Data - Specialty（2022年3月）
 * ネットワークスペシャリスト（2015年12月）
 * 情報セキュリティスペシャリスト（2012年12月）
@@ -76,6 +76,7 @@ AWSの各種セキュリティサービスを利用したセキュリティ要�
 
 #### コンテナ運用、監視
 * コンテナは未経験だったが、3か月でキャッチアップし、コンテナ監視構成の提案やベンダーレビューの対応を実施。
+* 監視システムリプレイスに伴い、可観測性向上のためトレースの導入を提案。
 
 #### リーダースキル
 * ユーザー部門としてベンダー管理を行ったことがなかったため、やりとりの仕方にご指摘いただくことが多かったが、学びも多かった。
